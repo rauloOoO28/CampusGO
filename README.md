@@ -1,8 +1,4 @@
-# CampusGO
 
----
-
-# 🇺🇸 English
 
 ## 📖 Description
 
